@@ -1,0 +1,55 @@
+/*
+ * Archivo: style.css
+ * Tema: Guía Ecológica de Mi Región (Diseño Oscuro/Ecológico)
+ */
+
+/* ESTILOS GLOBALES */
+body {
+    background-color: #1a1a1a; /* Fondo gris oscuro/negro */
+    color: #f0f0f0; /* Color de texto principal (gris claro) */
+    font-family: Arial, sans-serif; /* Tipografía básica legible */
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+/* ESTILOS PARA EL TÍTULO PRINCIPAL (Guía Ecológica) */
+h1 {
+    color: #4CAF50; /* Color de acento verde brillante */
+    text-align: center;
+    padding: 30px 0 10px;
+    font-family: 'Lobster', cursive; /* Si usas Google Fonts, asegúrate de importarla en tu HTML */
+    font-size: 3em;
+}
+
+/* ESTILOS PARA SECCIONES (Objetivo, Características, etc.) */
+h2 {
+    color: #4CAF50; /* Acento verde para títulos de sección */
+    border-bottom: 1px solid #333333; /* Separador sutil */
+    padding-bottom: 10px;
+    margin-top: 40px;
+    font-size: 1.8em;
+    font-style: italic; /* Opcional: para darle un toque diferente */
+}
+
+/* ESTILOS PARA LISTAS Y TEXTO DESTACADO */
+ul {
+    list-style: none; /* Quita las viñetas por defecto */
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+/* Estilos para los íconos/puntos importantes dentro de las listas (si usas emojis) */
+ul li strong {
+    color: #79d279; /* Un verde más claro para destacar */
+}
+
+/* Contenedor principal para centrar el contenido y darle margen */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
