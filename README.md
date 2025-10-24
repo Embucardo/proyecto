@@ -33,7 +33,7 @@ Fomentar la conciencia ambiental y el turismo ecológico, brindando a los visita
 - **Francisco Castro Cuadra Castro** 
 - **Eddy Manuel Bucardo Rodriguez** 
 - **Julio Alexander Muñoz Marchena** 
-- **Rafael Amador Perez** 
+
 ---
 
 ## <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%9A%80+C%C3%B3mo+Visualizar+el+Proyecto" alt="Typing SVG" /></a>
